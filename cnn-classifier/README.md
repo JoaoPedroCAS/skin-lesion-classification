@@ -117,3 +117,6 @@ Evaluation results are saved in `results.txt`.
 | **F1-Score**  | 0.7449   | 0.0039                      |
 | **ROC AUC**   | 0.9148   | 0.0012                      |
 
+![VGG19](https://github.com/user-attachments/assets/d4e6adac-b59a-4c23-a680-829a06fe3263)
+
+
